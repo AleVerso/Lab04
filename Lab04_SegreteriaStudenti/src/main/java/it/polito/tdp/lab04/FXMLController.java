@@ -178,3 +178,4 @@ public class FXMLController {
 		this.boxCorsi.getItems().addAll(model.getCorsi());
 	}
 }
+
